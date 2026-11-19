@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | Jirath Thima |
+| **Nickname** | Time |
+| **Student ID** | 692115010 |
 | **Section** | 701 |
 
 ## How to run
@@ -18,8 +18,8 @@ Then open <http://localhost:3000> and <http://localhost:3000/api/me>.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: what happens between typing a URL and seeing the page?_
+When I enter a URL in my browser, it sends a request to my Node.js server running on localhost:3000. The server checks the request method and URL path to decide what response to send back. For example, it returns a 200 status code when the request is successful or 404 when the page cannot be found. The response includes headers and content such as HTML or JSON. I also learned how to check requests and responses using the terminal, browser DevTools, and the curl -i command.
 
 ## AI-use statement
 
-_Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
+I used ChatGPT to help me understand the Node.js server code, check my code for mistakes, and explain how HTTP requests and responses work. I also used AI for guidance when setting up Git and uploading my project to GitHub. The code was written and tested by me, with AI providing explanations and suggestions.
