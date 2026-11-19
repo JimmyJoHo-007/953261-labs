@@ -9,6 +9,7 @@
 
 import http from "node:http";
 
+// Server port for the Lab 1 application
 const PORT = 3000;
 
 const me = {
